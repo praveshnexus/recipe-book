@@ -3,4 +3,4 @@ In this project, we're developing a recipe book application that features a vari
 Each time the page is refreshed, a new set of recipes with distinct ingredients will be displayed.
 Additionally, a link is provided to access the recipe website.
 
-[Demo]()
+[Demo](https://praveshnexus.github.io/recipe-book/)
